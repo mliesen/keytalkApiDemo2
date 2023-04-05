@@ -5,7 +5,7 @@ async function main() {
     eng.url = "http://keytalkqa.volvocars.net:81/";
     console.log("connecting");
     try {
-        await eng.login("keylogic", "freda..");
+        await eng.login("xxxx", "yyy..");
         try {
             console.log("getting value (current time)");
             let v = await eng.requestAsync("*time").promise();
