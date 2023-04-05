@@ -1,0 +1,16 @@
+{
+  "name": "simple-api-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.15.11",
+    "@types/q": "^1.5.5",
+    "keytalk-api": "^1.0.14"
+  }
+}
